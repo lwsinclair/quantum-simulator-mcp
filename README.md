@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yuchenssr-quantum-simulator-mcp-badge.png)](https://mseep.ai/app/yuchenssr-quantum-simulator-mcp)
+
 # Quantum Simulator MCP Server
 
 A Docker image providing a quantum circuit simulator that implements the Model Context Protocol (MCP), allowing integration with MCP clients such as Claude for Desktop.
